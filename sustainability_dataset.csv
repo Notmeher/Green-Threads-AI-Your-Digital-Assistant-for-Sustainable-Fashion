@@ -1,0 +1,1001 @@
+Product,Raw Material (kg CO2),Weaving (kg CO2),Dyeing (kWh),Finishing (Litres H2O),Energy Used (kWh),Water Used (Litres),CO2 Used (kg),Sustainability Grade
+Cabin Crew Jacket,2.0,4.3,5.9,974,18.9,1050,10.0,C
+Athletic Performance Tee,1.1,2.2,3.7,495,11.0,583,6.1,B
+Slip-Resistant Clogs,1.4,0.8,2.7,398,13.2,331,8.7,A
+Hiking Shell Jacket,3.2,5.2,7.7,1145,26.7,1333,15.2,D
+Slip-Resistant Clogs,2.4,1.5,3.4,473,17.0,631,11.0,B
+Running Windbreaker,1.1,2.1,2.8,438,11.7,484,6.1,A
+Compression Tights,1.3,2.5,3.9,565,12.3,733,6.9,B
+Security Guard Blazer,1.9,3.4,5.0,773,17.0,845,8.5,B
+Welding Apron,1.9,3.0,3.4,535,13.1,668,9.6,B
+Running Windbreaker,1.4,2.9,3.7,658,12.8,833,8.2,B
+Factory Lab Coat,1.9,3.0,4.1,640,14.3,809,8.6,B
+Lightweight Running Shoes,2.0,1.5,3.0,465,14.7,502,10.8,B
+Construction Coverall,4.0,6.6,9.2,1359,26.3,1721,16.8,D
+Paramedic Scrubs,1.3,2.4,3.6,557,12.6,738,7.6,B
+Running Windbreaker,1.7,2.5,4.1,677,13.5,748,6.9,B
+Welding Apron,2.0,3.0,3.4,574,12.4,762,9.4,B
+Paramedic Scrubs,1.1,2.1,2.5,427,8.6,535,5.8,A
+Waterproof Hiking Boots,3.4,2.1,5.0,700,24.4,890,13.9,C
+Police Patrol Shirt,1.1,1.9,3.4,555,7.5,521,5.7,A
+Paramedic Scrubs,0.8,1.4,2.9,507,8.5,566,5.8,A
+Steel Toe Boots,3.8,2.3,5.4,675,28.0,832,15.8,C
+Waterproof Hiking Boots,4.1,2.7,5.5,815,30.6,1040,19.7,D
+Compression Tights,1.2,2.6,3.5,608,12.6,724,6.5,B
+Waterproof Hiking Boots,4.0,2.7,6.1,772,32.5,1031,19.6,D
+High-Top Basketball Sneakers,2.5,1.7,3.9,500,16.4,571,11.6,B
+Construction Coverall,3.3,4.6,7.2,926,20.5,1428,13.7,C
+Running Windbreaker,1.4,2.5,3.9,673,13.0,737,6.7,B
+Construction Coverall,4.0,5.6,8.2,1107,27.1,1544,18.4,D
+High-Top Basketball Sneakers,2.5,1.6,3.4,471,16.7,625,11.1,B
+Hiking Shell Jacket,2.4,4.3,6.2,1040,18.3,1114,12.4,C
+Construction Coverall,3.7,6.2,8.9,1174,28.1,1512,15.8,D
+Chef Coat,1.9,4.0,5.0,789,18.1,1026,9.5,C
+Yoga Leggings,0.8,1.4,2.5,299,9.5,358,5.7,A
+Waterproof Hiking Boots,3.3,1.9,5.0,741,22.3,871,14.4,C
+Waterproof Hiking Boots,3.2,2.1,4.8,636,24.3,880,16.0,C
+Mechanic Jumpsuit,3.9,5.8,8.2,1307,26.5,1401,15.0,D
+Mechanic Jumpsuit,2.6,4.3,6.6,1004,20.0,1165,12.1,C
+Training Tracksuit,2.8,4.8,6.3,935,19.0,1305,11.6,C
+Tactical Cargo Pants,1.7,3.6,4.4,848,15.0,962,9.2,B
+Industrial Work Shirt,1.5,2.7,3.7,575,12.9,634,8.0,B
+Factory Lab Coat,2.1,3.7,6.1,865,18.5,1074,10.1,C
+Hiking Shell Jacket,2.8,5.5,7.4,1423,26.9,1563,14.6,D
+Hiking Shell Jacket,2.9,5.5,8.1,1354,25.5,1389,14.2,D
+Lightweight Running Shoes,1.9,1.5,3.0,469,15.7,591,9.2,B
+Chef Coat,1.7,3.4,4.3,702,14.0,900,8.3,B
+Hiking Shell Jacket,2.5,4.5,6.4,1116,21.5,1198,11.7,C
+Industrial Work Shirt,1.5,2.6,3.7,617,13.1,705,7.6,B
+Slip-Resistant Clogs,1.7,0.9,2.5,368,9.9,393,9.5,A
+Cabin Crew Jacket,2.7,4.8,6.7,1043,25.3,1527,13.9,D
+Trail Running Shorts,0.6,1.5,2.9,364,7.4,499,5.3,A
+Chef Coat,1.7,3.4,4.0,648,15.0,818,8.0,B
+Slip-Resistant Clogs,2.4,1.6,3.4,512,17.4,627,10.7,B
+Steel Toe Boots,3.7,2.3,4.6,753,25.9,877,16.3,C
+Industrial Work Shirt,1.2,1.7,3.2,390,9.4,392,4.5,A
+Welding Apron,1.8,2.8,3.7,646,13.7,719,9.4,B
+Construction Coverall,3.6,6.0,8.9,1349,26.3,1596,17.6,D
+Lightweight Running Shoes,1.8,1.1,2.0,283,9.4,438,6.5,A
+Industrial Work Shirt,1.2,1.6,3.0,469,7.5,609,6.8,A
+Waterproof Hiking Boots,3.0,1.7,3.6,505,21.8,696,11.7,B
+Industrial Work Shirt,1.3,2.9,4.0,579,11.9,691,8.1,B
+High-Top Basketball Sneakers,2.9,1.8,4.4,675,19.6,809,15.2,C
+Welding Apron,1.9,2.9,3.5,576,14.3,804,8.3,B
+Police Patrol Shirt,1.5,3.2,4.2,605,13.4,806,8.3,B
+Waterproof Hiking Boots,3.9,2.8,6.0,915,31.9,932,16.7,D
+Insulated Camping Vest,2.1,3.4,4.9,898,18.8,1105,10.5,C
+Security Guard Blazer,2.0,4.0,4.4,767,17.2,854,10.2,B
+Security Guard Blazer,3.1,5.1,6.6,1119,23.1,1514,15.0,D
+Yoga Leggings,0.9,1.8,2.2,450,6.6,357,5.5,A
+Construction Coverall,3.2,4.8,6.8,1030,23.0,1297,12.7,C
+Waterproof Parka,3.9,6.5,8.6,1543,30.5,1738,16.6,D
+Hiking Shell Jacket,2.8,5.4,7.0,1235,23.8,1578,14.6,D
+Yoga Leggings,1.2,2.5,3.8,516,10.2,677,6.0,B
+Athletic Performance Tee,1.2,2.0,3.1,514,10.3,570,6.5,B
+Running Windbreaker,1.6,2.7,3.9,657,14.1,780,6.9,B
+High-Top Basketball Sneakers,2.3,1.4,3.5,480,16.2,629,12.4,B
+Waterproof Hiking Boots,3.4,2.2,4.3,694,25.9,880,15.6,C
+Tactical Cargo Pants,1.8,3.3,4.3,812,15.0,1006,9.8,B
+Steel Toe Boots,4.5,2.5,5.5,892,31.8,1053,20.9,D
+Lightweight Running Shoes,1.4,1.0,2.3,409,13.8,331,5.7,A
+Waterproof Parka,3.7,5.8,9.6,1534,31.7,1641,18.5,D
+Welding Apron,2.2,3.0,3.4,575,12.5,741,9.5,B
+Cabin Crew Jacket,2.8,5.3,6.8,1208,22.6,1463,14.7,D
+Welding Apron,2.6,3.4,4.4,777,16.5,897,11.8,C
+Lightweight Running Shoes,1.2,0.8,2.6,332,9.8,314,5.7,A
+Waterproof Hiking Boots,3.6,2.0,4.6,711,26.0,774,16.0,C
+Mechanic Jumpsuit,2.1,3.5,5.2,707,16.1,1080,10.0,B
+Steel Toe Boots,4.5,2.8,6.0,864,31.7,1118,20.9,D
+Insulated Camping Vest,1.5,1.7,2.7,448,10.6,489,6.3,A
+Industrial Work Shirt,1.6,2.7,3.8,523,12.4,664,7.1,B
+Tactical Cargo Pants,1.8,3.1,4.9,824,15.9,1019,9.4,B
+Security Guard Blazer,1.8,4.1,5.1,829,17.4,947,9.5,B
+Factory Lab Coat,1.6,3.1,4.6,689,13.2,975,8.3,B
+Trail Running Shorts,0.6,1.8,2.9,425,7.2,483,4.3,A
+Paramedic Scrubs,1.3,2.3,4.3,582,10.8,666,7.6,B
+Insulated Camping Vest,1.7,2.9,4.7,816,16.1,782,8.6,B
+Welding Apron,1.5,1.7,3.1,493,10.8,493,5.3,A
+Security Guard Blazer,1.7,3.3,4.3,752,15.3,1026,8.3,B
+Yoga Leggings,0.9,2.0,2.6,329,9.5,369,3.8,A
+High-Top Basketball Sneakers,2.2,1.5,3.7,476,17.8,577,12.1,B
+Lightweight Running Shoes,2.1,1.4,3.2,427,16.8,482,9.3,B
+Industrial Work Shirt,1.2,1.9,2.9,445,8.8,582,5.9,A
+Cabin Crew Jacket,2.2,4.6,5.8,891,18.4,1194,10.4,C
+Waterproof Hiking Boots,2.5,1.7,4.1,571,20.3,702,11.0,B
+Chef Coat,2.0,4.3,5.5,896,18.0,1126,9.8,C
+Steel Toe Boots,4.1,2.6,6.6,790,32.6,1145,21.2,D
+Training Tracksuit,2.9,6.2,6.9,1254,23.6,1522,16.3,D
+Paramedic Scrubs,1.3,2.4,3.6,617,12.8,787,7.2,B
+Waterproof Hiking Boots,2.7,1.7,3.5,526,19.7,651,11.6,B
+Slip-Resistant Clogs,1.4,1.3,1.9,418,9.6,329,9.1,A
+Yoga Leggings,0.8,1.8,2.4,392,7.0,373,5.7,A
+Yoga Leggings,1.3,2.2,3.3,492,10.2,641,7.0,B
+Running Windbreaker,1.4,2.6,3.8,643,12.2,688,6.8,B
+Steel Toe Boots,3.6,2.1,4.9,698,26.0,912,17.3,C
+Cabin Crew Jacket,2.0,3.6,4.4,727,15.0,971,9.7,B
+Steel Toe Boots,2.8,1.9,4.3,624,20.1,626,14.0,B
+Hiking Shell Jacket,2.1,3.3,5.2,946,15.3,936,10.1,B
+High-Top Basketball Sneakers,2.4,1.7,3.5,483,17.7,637,10.4,B
+Slip-Resistant Clogs,2.9,1.7,4.5,672,20.4,668,14.2,C
+Industrial Work Shirt,1.2,2.1,2.7,372,8.0,416,4.3,A
+Training Tracksuit,3.6,5.6,7.3,1252,23.2,1633,16.2,D
+Waterproof Hiking Boots,3.5,1.9,4.9,731,22.3,800,15.2,C
+Mechanic Jumpsuit,3.9,5.8,8.2,1265,23.2,1673,17.0,D
+Slip-Resistant Clogs,2.0,1.3,3.2,492,15.2,615,10.4,B
+Insulated Camping Vest,1.6,2.6,4.8,776,14.8,823,9.2,B
+Steel Toe Boots,2.6,1.8,3.9,599,20.4,657,11.6,B
+Compression Tights,1.3,2.5,3.8,611,10.5,739,6.4,B
+Security Guard Blazer,1.9,3.3,4.2,810,15.3,944,9.5,B
+Security Guard Blazer,1.7,3.9,4.7,814,16.9,933,9.4,B
+Factory Lab Coat,2.0,3.8,6.1,885,17.1,1145,9.8,C
+Steel Toe Boots,3.1,1.9,4.1,561,20.4,631,11.9,B
+Construction Coverall,3.7,5.9,8.8,1297,28.4,1551,17.9,D
+Lightweight Running Shoes,1.3,0.8,1.8,357,9.6,337,7.6,A
+Compression Tights,1.0,1.4,2.9,322,7.9,548,3.9,A
+Factory Lab Coat,1.8,3.3,4.7,754,14.9,951,8.8,B
+Running Windbreaker,1.7,2.5,3.5,691,14.3,838,6.9,B
+Tactical Cargo Pants,2.3,4.5,5.9,1049,17.6,1151,11.7,C
+Lightweight Running Shoes,2.0,1.5,3.3,435,15.2,530,10.6,B
+Running Windbreaker,1.6,2.9,4.2,620,14.0,823,7.4,B
+Construction Coverall,3.8,5.5,9.2,1107,23.9,1548,16.7,D
+Cabin Crew Jacket,1.8,3.4,4.5,771,16.5,907,9.7,B
+Industrial Work Shirt,0.8,1.8,2.9,323,8.7,438,5.8,A
+Waterproof Parka,3.7,6.6,9.5,1335,28.5,1776,19.5,D
+Training Tracksuit,2.2,3.9,5.0,830,14.9,956,10.5,B
+Tactical Cargo Pants,2.2,4.6,6.0,976,19.8,1215,10.6,C
+Paramedic Scrubs,0.8,1.4,2.5,516,6.8,503,4.4,A
+Mechanic Jumpsuit,2.9,4.7,6.7,890,21.2,1223,12.8,C
+Training Tracksuit,3.2,5.3,6.9,1126,25.3,1458,15.6,D
+Police Patrol Shirt,1.6,2.7,3.9,660,11.7,846,7.3,B
+Waterproof Hiking Boots,4.1,2.5,5.4,912,29.2,1099,20.0,D
+Mechanic Jumpsuit,2.7,4.7,6.1,1046,20.5,1336,12.4,C
+Insulated Camping Vest,2.2,3.3,5.3,881,18.1,1029,10.5,C
+Insulated Camping Vest,1.8,3.0,4.0,743,16.3,816,9.0,B
+Cabin Crew Jacket,2.1,4.5,5.2,967,17.5,1137,10.2,C
+Running Windbreaker,1.3,2.0,3.4,367,7.5,649,6.6,A
+Steel Toe Boots,4.0,2.6,5.7,815,34.2,961,19.6,D
+Cabin Crew Jacket,1.9,3.6,4.6,697,13.8,931,9.5,B
+Cabin Crew Jacket,2.2,4.0,5.2,912,17.2,1045,10.4,C
+Chef Coat,1.8,3.3,4.1,718,15.7,801,9.0,B
+Chef Coat,1.4,3.1,4.2,623,14.4,871,8.0,B
+Construction Coverall,3.6,6.0,8.8,1188,24.7,1702,18.4,D
+Security Guard Blazer,2.3,4.6,5.8,847,18.3,1094,11.6,C
+Cabin Crew Jacket,2.0,4.5,5.4,967,19.1,1132,11.5,C
+Training Tracksuit,3.4,5.5,7.1,1251,27.6,1524,15.7,D
+Security Guard Blazer,2.6,5.4,7.1,1170,23.1,1460,13.9,D
+Compression Tights,0.7,1.9,2.5,451,8.7,529,4.0,A
+Chef Coat,1.4,3.0,4.5,731,13.3,772,8.3,B
+Paramedic Scrubs,1.2,2.5,4.0,642,13.0,659,7.5,B
+Waterproof Hiking Boots,3.9,2.8,5.3,840,31.7,933,18.4,D
+Security Guard Blazer,2.0,3.9,4.4,700,16.4,1027,8.4,B
+Waterproof Hiking Boots,2.7,1.7,3.7,589,19.2,715,11.8,B
+Waterproof Hiking Boots,3.1,2.2,4.4,696,22.4,840,15.9,C
+Yoga Leggings,0.9,2.0,2.3,404,9.1,356,3.6,A
+Athletic Performance Tee,0.8,1.5,2.9,366,6.7,446,4.2,A
+Waterproof Hiking Boots,2.6,1.6,3.9,506,18.5,659,11.1,B
+High-Top Basketball Sneakers,1.6,1.0,2.7,333,10.7,492,6.6,A
+Industrial Work Shirt,1.5,2.4,3.9,554,11.7,683,7.8,B
+Athletic Performance Tee,1.2,2.2,3.1,532,10.5,580,6.5,B
+Police Patrol Shirt,1.3,2.2,3.0,365,8.6,687,5.9,A
+Security Guard Blazer,1.8,3.5,5.0,781,15.1,870,9.4,B
+Waterproof Hiking Boots,2.6,1.6,3.8,574,20.6,656,11.5,B
+Welding Apron,1.9,3.2,3.9,565,14.6,705,9.1,B
+Cabin Crew Jacket,1.6,3.8,4.4,698,16.4,905,8.8,B
+Athletic Performance Tee,0.8,1.7,3.0,437,8.5,365,4.3,A
+Security Guard Blazer,2.5,4.3,6.0,863,20.0,1180,11.7,C
+Hiking Shell Jacket,2.7,3.8,6.4,1075,21.3,1126,12.2,C
+Insulated Camping Vest,1.8,2.9,4.1,804,14.4,937,9.2,B
+Paramedic Scrubs,1.3,2.5,4.1,662,11.4,776,7.7,B
+Cabin Crew Jacket,1.8,3.4,4.1,737,14.6,1026,9.6,B
+Cabin Crew Jacket,2.0,3.5,4.5,689,17.0,918,9.1,B
+Security Guard Blazer,1.8,3.3,5.0,703,17.0,976,8.7,B
+Athletic Performance Tee,0.8,1.5,2.6,344,9.1,530,4.9,A
+Steel Toe Boots,4.4,3.0,6.2,962,35.1,1048,19.5,D
+Trail Running Shorts,0.9,1.7,2.7,409,7.5,326,4.4,A
+Tactical Cargo Pants,2.5,4.3,6.2,901,19.9,1073,10.7,C
+Mechanic Jumpsuit,2.3,3.9,5.3,742,15.7,966,9.5,B
+Steel Toe Boots,2.9,1.8,4.0,620,19.1,630,13.6,B
+Security Guard Blazer,2.7,5.9,6.4,1178,24.4,1387,13.3,D
+Compression Tights,1.1,2.3,3.4,592,12.5,704,6.5,B
+Police Patrol Shirt,1.5,2.6,3.8,683,11.9,786,7.0,B
+Tactical Cargo Pants,1.8,3.5,4.9,796,16.3,917,8.8,B
+Police Patrol Shirt,1.6,3.0,4.3,560,12.3,741,8.4,B
+Training Tracksuit,2.8,4.9,6.7,1009,20.7,1338,11.4,C
+Trail Running Shorts,0.7,1.5,2.0,369,6.6,366,3.7,A
+Training Tracksuit,3.0,6.0,7.5,1355,23.6,1489,14.1,D
+Factory Lab Coat,2.1,4.2,6.0,835,16.2,1029,9.4,C
+Cabin Crew Jacket,1.9,3.5,4.3,750,14.2,964,8.5,B
+Paramedic Scrubs,1.3,2.3,3.9,678,13.0,791,7.3,B
+Slip-Resistant Clogs,2.4,1.4,3.6,579,15.6,537,10.5,B
+Chef Coat,2.0,4.0,4.9,784,17.2,1068,10.7,C
+Welding Apron,1.3,2.7,3.0,392,9.7,438,5.0,A
+Hiking Shell Jacket,3.4,5.2,7.0,1319,22.9,1643,15.5,D
+Waterproof Parka,4.3,6.0,8.2,1341,31.9,1708,19.6,D
+Hiking Shell Jacket,2.9,5.1,7.5,1281,25.1,1353,15.9,D
+Hiking Shell Jacket,3.3,4.7,7.1,1392,24.4,1379,15.0,D
+Industrial Work Shirt,1.0,2.2,2.3,387,7.6,623,5.8,A
+Security Guard Blazer,2.2,4.9,5.3,969,17.7,1191,10.8,C
+Factory Lab Coat,2.2,4.3,5.4,793,16.9,1009,10.3,C
+Waterproof Hiking Boots,3.1,2.2,4.7,653,24.0,847,14.2,C
+Lightweight Running Shoes,2.0,1.2,3.3,474,17.2,516,10.9,B
+Paramedic Scrubs,1.3,2.7,3.7,585,10.7,740,6.7,B
+Construction Coverall,4.2,5.9,7.6,1333,28.1,1776,15.1,D
+Police Patrol Shirt,1.6,2.9,4.2,633,12.4,854,7.4,B
+Insulated Camping Vest,1.4,2.2,2.9,587,9.2,509,5.6,A
+Hiking Shell Jacket,3.1,5.4,7.8,1387,22.9,1577,14.7,D
+Construction Coverall,3.3,5.2,6.6,926,20.8,1366,12.5,C
+Slip-Resistant Clogs,1.9,1.2,3.0,296,9.7,387,9.3,A
+Running Windbreaker,0.9,1.6,2.7,553,8.0,537,6.3,A
+Tactical Cargo Pants,2.1,3.9,5.8,914,17.4,1195,12.1,C
+Paramedic Scrubs,0.9,2.0,2.5,446,8.1,506,6.3,A
+Insulated Camping Vest,2.1,3.6,4.9,975,17.5,971,11.2,C
+Hiking Shell Jacket,2.3,3.5,4.8,768,15.4,1089,10.2,B
+Factory Lab Coat,2.0,4.1,5.8,835,18.2,1145,9.5,C
+Training Tracksuit,2.4,4.4,6.8,952,21.1,1366,12.5,C
+Police Patrol Shirt,1.4,1.6,3.4,522,11.1,520,4.5,A
+Hiking Shell Jacket,2.4,4.5,6.1,1080,18.2,1192,11.6,C
+Steel Toe Boots,4.7,2.7,6.3,965,32.8,1033,19.5,D
+Training Tracksuit,2.9,6.0,8.1,1327,24.9,1714,16.4,D
+Paramedic Scrubs,1.5,2.8,4.1,551,10.8,753,6.7,B
+Athletic Performance Tee,1.0,2.1,3.5,529,10.4,593,6.5,B
+Running Windbreaker,1.6,2.9,3.6,678,13.6,731,7.5,B
+Waterproof Hiking Boots,3.4,2.0,4.9,651,22.9,831,13.8,C
+Training Tracksuit,2.7,4.2,5.8,1091,20.4,1187,11.8,C
+Yoga Leggings,0.8,1.8,2.4,320,9.4,513,4.1,A
+Police Patrol Shirt,1.2,1.8,2.7,499,7.8,647,4.7,A
+Mechanic Jumpsuit,2.8,4.5,6.0,1030,21.0,1343,14.1,C
+Mechanic Jumpsuit,3.1,5.8,7.5,1253,26.6,1703,16.4,D
+High-Top Basketball Sneakers,2.6,1.7,3.8,533,18.8,620,12.0,B
+Hiking Shell Jacket,3.2,5.1,7.7,1399,26.9,1381,15.5,D
+Security Guard Blazer,2.4,4.1,6.1,870,17.6,1067,10.5,C
+Running Windbreaker,1.0,2.1,3.1,455,7.6,542,5.7,A
+Hiking Shell Jacket,3.4,4.6,8.0,1367,23.8,1402,14.3,D
+Yoga Leggings,0.8,1.4,2.9,323,9.6,480,5.3,A
+Athletic Performance Tee,0.9,1.9,1.9,294,9.4,505,5.0,A
+Running Windbreaker,1.4,2.6,4.2,697,13.0,799,7.9,B
+Steel Toe Boots,3.5,2.3,5.0,775,24.8,922,15.1,C
+Mechanic Jumpsuit,3.0,4.4,5.9,977,18.7,1200,14.1,C
+Yoga Leggings,1.2,2.4,3.4,567,11.8,675,6.7,B
+Lightweight Running Shoes,1.4,1.1,2.6,380,10.8,431,8.9,A
+Steel Toe Boots,4.0,2.7,6.0,960,34.7,1168,20.0,D
+Slip-Resistant Clogs,2.3,1.3,3.5,525,17.3,567,10.3,B
+Security Guard Blazer,1.9,3.3,5.1,779,17.1,963,9.9,B
+Compression Tights,1.1,2.5,3.6,552,11.0,709,6.7,B
+Running Windbreaker,1.4,2.6,3.4,595,12.9,742,6.9,B
+Yoga Leggings,1.2,2.4,3.2,478,11.5,679,6.5,B
+Welding Apron,2.2,3.2,3.9,634,13.7,817,8.8,B
+Industrial Work Shirt,1.3,2.5,4.4,583,13.0,779,8.0,B
+Factory Lab Coat,1.8,3.4,4.6,636,13.1,935,8.7,B
+Tactical Cargo Pants,2.4,4.4,6.2,985,19.9,1127,11.1,C
+Steel Toe Boots,4.7,2.6,6.6,926,32.6,1058,18.0,D
+Athletic Performance Tee,0.7,2.0,2.1,400,7.0,377,4.0,A
+Security Guard Blazer,1.8,3.6,4.7,784,14.9,1018,9.8,B
+Police Patrol Shirt,1.6,2.6,4.3,614,11.7,828,7.1,B
+Tactical Cargo Pants,3.0,5.0,7.2,1210,22.8,1572,12.8,D
+Waterproof Parka,3.9,5.5,9.7,1565,29.5,1829,18.2,D
+Steel Toe Boots,3.0,1.7,3.8,633,19.0,717,12.3,B
+Chef Coat,1.3,1.9,2.7,390,9.3,721,6.8,A
+Compression Tights,1.3,2.6,3.4,580,10.7,656,6.1,B
+Slip-Resistant Clogs,2.4,1.5,3.8,560,17.5,644,10.4,B
+Athletic Performance Tee,0.8,1.3,2.9,287,8.7,344,4.7,A
+Waterproof Hiking Boots,3.0,1.7,4.1,516,20.5,712,11.3,B
+High-Top Basketball Sneakers,1.4,1.3,2.2,317,13.2,430,7.6,A
+Hiking Shell Jacket,3.1,4.8,6.9,1374,22.0,1387,14.8,D
+Security Guard Blazer,2.2,4.2,6.0,875,19.6,1236,11.2,C
+Running Windbreaker,1.6,2.5,4.0,646,13.6,747,7.8,B
+Tactical Cargo Pants,2.9,5.8,6.5,1185,24.5,1272,15.2,D
+Steel Toe Boots,3.4,2.3,5.1,695,24.0,902,14.9,C
+Yoga Leggings,1.0,1.5,2.1,329,9.2,541,5.6,A
+Running Windbreaker,1.6,3.0,4.2,616,12.6,810,7.7,B
+Waterproof Hiking Boots,3.1,2.0,4.4,725,23.0,800,15.5,C
+Waterproof Hiking Boots,4.3,2.7,5.4,889,28.8,1025,19.3,D
+Police Patrol Shirt,1.7,3.1,3.8,624,13.8,819,8.7,B
+Training Tracksuit,3.3,5.9,7.5,1115,23.0,1442,14.5,D
+Tactical Cargo Pants,2.7,5.1,7.1,1235,25.5,1432,12.8,D
+Cabin Crew Jacket,1.7,3.3,4.6,808,15.4,911,8.4,B
+Running Windbreaker,1.1,1.8,3.3,526,9.1,558,4.3,A
+Security Guard Blazer,1.9,3.5,5.0,764,16.7,1014,8.5,B
+Factory Lab Coat,1.2,2.2,3.4,408,12.3,583,4.8,A
+Construction Coverall,4.1,6.4,7.9,1329,23.9,1578,16.7,D
+Cabin Crew Jacket,1.8,3.6,4.7,677,14.5,873,9.5,B
+Hiking Shell Jacket,2.6,4.2,5.5,965,21.0,1306,12.1,C
+Steel Toe Boots,3.7,2.0,4.9,760,26.8,787,14.8,C
+Insulated Camping Vest,1.6,3.0,4.5,784,14.6,778,8.5,B
+Industrial Work Shirt,1.4,2.9,4.2,531,11.1,643,7.0,B
+Compression Tights,1.2,2.4,3.3,518,12.7,682,7.2,B
+Cabin Crew Jacket,2.1,4.1,5.3,841,17.7,1073,10.7,C
+Hiking Shell Jacket,2.7,4.3,5.7,983,21.4,1294,12.4,C
+Cabin Crew Jacket,2.4,4.5,5.0,857,18.4,1192,10.5,C
+Security Guard Blazer,2.7,5.4,6.3,1011,25.3,1483,14.5,D
+Security Guard Blazer,2.4,4.5,5.7,952,20.3,1148,11.0,C
+Industrial Work Shirt,1.5,2.5,4.2,522,11.7,647,6.8,B
+Compression Tights,1.0,1.9,2.8,462,8.7,455,4.1,A
+Trail Running Shorts,0.8,1.5,2.8,452,6.1,450,3.7,A
+High-Top Basketball Sneakers,2.8,1.9,4.1,613,19.7,699,14.6,C
+Welding Apron,1.3,2.3,2.5,418,11.0,614,5.2,A
+Yoga Leggings,1.3,2.3,3.3,477,11.4,566,6.6,B
+Security Guard Blazer,1.8,3.5,4.3,767,17.4,969,8.3,B
+Training Tracksuit,3.4,5.8,8.4,1303,26.4,1615,14.2,D
+Industrial Work Shirt,1.1,2.3,3.4,374,7.6,568,6.8,A
+Industrial Work Shirt,1.5,2.4,3.9,539,12.7,725,8.1,B
+Industrial Work Shirt,1.3,2.7,3.6,524,13.3,758,8.0,B
+Trail Running Shorts,1.1,1.9,3.6,528,9.9,622,5.8,B
+Steel Toe Boots,3.8,2.1,4.8,707,26.7,865,17.0,C
+Running Windbreaker,1.5,3.1,3.7,619,14.0,690,7.3,B
+Paramedic Scrubs,0.8,1.8,3.1,413,8.1,488,4.0,A
+Hiking Shell Jacket,1.9,3.6,5.1,827,15.5,1037,10.0,B
+Police Patrol Shirt,0.9,1.9,2.6,426,10.8,587,6.0,A
+Mechanic Jumpsuit,2.2,3.8,4.9,759,15.5,960,10.0,B
+Industrial Work Shirt,1.1,2.3,3.6,315,10.5,569,4.5,A
+Construction Coverall,3.7,6.4,8.0,1264,25.0,1732,16.1,D
+Training Tracksuit,2.6,4.7,5.9,1030,19.4,1198,13.2,C
+Waterproof Hiking Boots,4.0,2.5,6.2,761,31.5,1088,19.3,D
+Industrial Work Shirt,0.8,1.7,2.6,452,7.5,391,6.1,A
+Training Tracksuit,3.3,5.2,8.5,1338,27.3,1389,13.7,D
+Security Guard Blazer,2.2,4.2,5.9,978,20.0,1213,10.5,C
+Athletic Performance Tee,0.9,1.5,2.7,333,8.6,406,4.7,A
+Running Windbreaker,1.4,2.7,3.4,668,13.2,703,7.6,B
+Construction Coverall,3.9,6.6,8.1,1284,28.5,1541,15.9,D
+Hiking Shell Jacket,2.2,3.6,4.7,770,17.0,1031,9.2,B
+Yoga Leggings,1.0,1.8,2.3,360,7.1,434,4.0,A
+High-Top Basketball Sneakers,3.0,1.8,4.0,662,22.7,813,15.1,C
+Cabin Crew Jacket,1.9,3.7,4.8,782,13.7,910,9.9,B
+Athletic Performance Tee,0.7,1.9,2.4,408,6.1,435,3.8,A
+Paramedic Scrubs,1.2,2.2,2.5,541,9.6,575,5.2,A
+Tactical Cargo Pants,2.4,4.0,6.1,935,17.5,1191,12.6,C
+Yoga Leggings,0.8,1.7,2.0,452,7.4,397,4.8,A
+Compression Tights,1.2,2.5,3.5,567,10.6,613,6.3,B
+High-Top Basketball Sneakers,2.5,1.5,3.3,480,19.5,606,10.5,B
+Tactical Cargo Pants,2.0,3.2,5.1,809,15.8,983,8.6,B
+Athletic Performance Tee,0.9,2.0,2.7,430,7.7,414,5.3,A
+Security Guard Blazer,2.0,4.0,4.6,779,14.2,1028,9.4,B
+Training Tracksuit,3.0,6.2,7.4,1137,27.0,1507,15.1,D
+Compression Tights,1.3,2.7,3.8,562,10.7,639,6.5,B
+Welding Apron,2.6,4.0,4.9,734,15.4,931,11.7,C
+Hiking Shell Jacket,2.6,4.1,6.3,965,21.0,1130,11.5,C
+Running Windbreaker,1.7,2.7,3.4,588,14.1,703,6.8,B
+Waterproof Hiking Boots,3.3,2.2,5.0,666,24.2,767,13.7,C
+Security Guard Blazer,2.3,4.6,5.9,915,20.8,1096,12.2,C
+Waterproof Hiking Boots,2.9,1.5,3.8,547,19.6,662,11.9,B
+Factory Lab Coat,1.1,2.0,2.8,601,8.5,711,5.1,A
+Paramedic Scrubs,1.4,2.5,3.6,646,12.4,678,7.7,B
+Industrial Work Shirt,0.9,1.9,2.8,392,9.7,585,5.5,A
+Yoga Leggings,1.4,2.2,3.5,464,11.8,565,6.3,B
+Factory Lab Coat,2.2,4.2,5.9,871,17.9,1056,9.8,C
+Hiking Shell Jacket,3.3,4.9,7.1,1163,24.2,1448,15.1,D
+Paramedic Scrubs,0.9,1.9,2.6,352,9.3,447,5.6,A
+Athletic Performance Tee,1.1,2.5,3.7,453,10.3,641,6.1,B
+High-Top Basketball Sneakers,2.7,1.8,4.4,640,23.3,711,12.9,C
+Chef Coat,1.9,4.1,5.5,860,16.9,956,10.1,C
+Paramedic Scrubs,0.8,1.6,2.7,454,10.1,621,5.1,A
+Lightweight Running Shoes,2.2,1.4,3.2,465,15.0,539,9.2,B
+Steel Toe Boots,4.3,2.7,6.0,920,30.6,1162,19.4,D
+Waterproof Parka,4.1,6.5,8.8,1267,32.0,1751,19.4,D
+Security Guard Blazer,2.0,3.9,4.4,731,15.7,907,9.0,B
+Trail Running Shorts,0.9,1.3,2.0,319,6.8,361,4.1,A
+Compression Tights,1.0,2.7,3.8,563,11.4,609,7.4,B
+Waterproof Parka,4.2,6.4,9.4,1388,29.5,1845,18.2,D
+Compression Tights,1.3,2.6,3.3,508,10.5,667,6.3,B
+Police Patrol Shirt,1.2,2.2,3.3,483,8.7,480,5.8,A
+Hiking Shell Jacket,2.2,3.3,5.0,875,15.7,976,8.8,B
+Training Tracksuit,2.7,4.4,6.1,962,21.3,1246,12.7,C
+Industrial Work Shirt,0.9,2.0,3.1,364,8.2,443,6.7,A
+Cabin Crew Jacket,1.9,3.4,4.7,808,15.4,918,9.8,B
+Lightweight Running Shoes,1.4,1.1,1.8,378,13.9,477,5.7,A
+Trail Running Shorts,0.6,1.5,2.6,331,7.8,506,5.1,A
+Insulated Camping Vest,1.0,1.9,3.4,563,9.1,621,5.8,A
+Factory Lab Coat,2.2,4.2,5.9,823,18.9,1161,10.7,C
+Athletic Performance Tee,1.1,2.1,3.1,525,11.5,578,5.5,B
+Yoga Leggings,1.2,2.3,3.3,536,11.6,678,6.7,B
+Lightweight Running Shoes,1.8,1.0,2.3,409,9.2,310,8.1,A
+Yoga Leggings,1.3,2.3,3.7,531,12.3,698,6.0,B
+Slip-Resistant Clogs,1.4,1.2,2.8,390,10.2,508,8.2,A
+Police Patrol Shirt,1.0,1.9,2.4,467,11.2,647,4.9,A
+Running Windbreaker,1.3,1.8,2.1,524,8.0,578,5.2,A
+Slip-Resistant Clogs,2.0,1.5,3.2,535,17.5,633,11.2,B
+Training Tracksuit,2.0,3.7,4.8,902,16.3,970,10.0,B
+Yoga Leggings,1.1,2.2,3.9,533,12.1,672,5.9,B
+Welding Apron,2.0,3.1,4.1,629,13.0,670,9.0,B
+Police Patrol Shirt,1.4,2.8,4.2,619,13.8,766,7.0,B
+Steel Toe Boots,4.5,2.9,6.6,835,30.6,955,17.5,D
+Training Tracksuit,2.9,5.5,7.8,1133,24.2,1523,14.9,D
+Trail Running Shorts,0.7,1.3,2.9,403,5.8,517,4.1,A
+Training Tracksuit,2.2,3.8,4.7,836,14.8,942,11.0,B
+Police Patrol Shirt,1.5,3.0,4.2,692,13.3,789,8.0,B
+Construction Coverall,4.2,6.0,8.7,1160,26.2,1474,16.5,D
+Tactical Cargo Pants,1.9,3.4,4.7,788,14.5,963,9.2,B
+Police Patrol Shirt,1.0,1.8,3.0,364,11.3,686,6.4,A
+Police Patrol Shirt,1.4,2.9,3.8,618,13.3,802,7.1,B
+Industrial Work Shirt,1.5,2.9,4.1,548,12.0,668,7.3,B
+Mechanic Jumpsuit,2.7,5.0,6.3,909,18.6,1366,13.5,C
+Waterproof Parka,3.3,4.9,6.6,1120,22.3,1397,13.7,C
+Hiking Shell Jacket,3.3,5.5,7.5,1186,21.7,1563,14.5,D
+Chef Coat,1.9,3.9,5.5,866,16.2,1092,9.6,C
+Yoga Leggings,1.1,2.1,2.5,458,6.6,457,4.7,A
+Running Windbreaker,1.1,1.8,3.1,386,7.8,652,5.4,A
+Athletic Performance Tee,1.2,2.0,3.2,491,10.3,594,5.9,B
+Paramedic Scrubs,1.3,2.4,4.1,578,12.0,743,7.9,B
+Waterproof Hiking Boots,3.0,2.2,4.3,714,25.1,767,14.3,C
+Training Tracksuit,3.2,5.4,7.6,1346,23.7,1436,15.0,D
+Slip-Resistant Clogs,1.6,1.1,2.0,366,10.9,483,9.4,A
+Welding Apron,2.0,3.1,3.7,626,14.7,763,8.3,B
+Mechanic Jumpsuit,3.4,6.4,7.1,1237,26.0,1521,16.2,D
+Slip-Resistant Clogs,1.8,0.9,2.9,305,10.7,499,8.5,A
+Construction Coverall,3.1,5.2,6.5,1031,21.2,1203,14.8,C
+Cabin Crew Jacket,1.7,3.6,4.1,750,15.1,906,9.6,B
+Welding Apron,1.3,1.8,2.4,444,9.4,548,6.2,A
+Trail Running Shorts,1.1,2.2,3.6,489,11.4,565,6.7,B
+Mechanic Jumpsuit,3.2,5.9,7.6,1296,24.4,1612,16.6,D
+Running Windbreaker,1.4,2.7,3.4,635,14.1,780,7.3,B
+Training Tracksuit,3.2,5.3,8.1,1196,22.7,1570,15.5,D
+Yoga Leggings,1.0,2.1,2.2,413,6.5,443,4.6,A
+Waterproof Hiking Boots,3.8,2.6,5.3,876,30.0,1108,17.7,D
+Training Tracksuit,3.0,5.8,7.5,1162,22.5,1602,14.0,D
+Industrial Work Shirt,1.3,1.6,2.5,390,10.8,428,4.4,A
+Running Windbreaker,1.1,2.4,3.1,444,9.9,667,5.3,A
+Insulated Camping Vest,2.1,3.6,5.6,843,19.7,1072,9.8,C
+Slip-Resistant Clogs,1.5,1.0,2.7,302,9.1,406,7.9,A
+Slip-Resistant Clogs,2.4,1.4,3.7,568,15.3,605,11.3,B
+Compression Tights,0.7,2.2,2.1,477,8.0,560,5.8,A
+Factory Lab Coat,1.6,3.0,4.5,780,14.9,817,9.2,B
+Running Windbreaker,1.7,2.7,3.4,670,12.0,705,7.3,B
+Security Guard Blazer,2.0,3.4,5.1,699,17.2,879,9.2,B
+Mechanic Jumpsuit,3.5,6.1,8.5,1190,27.0,1645,15.3,D
+High-Top Basketball Sneakers,1.7,0.9,2.9,309,10.7,525,7.0,A
+Compression Tights,1.0,1.5,2.5,482,9.9,557,5.5,A
+Chef Coat,1.6,3.4,4.4,733,15.1,873,7.6,B
+Trail Running Shorts,0.7,1.4,2.3,299,8.3,418,5.4,A
+Compression Tights,0.8,1.9,3.1,337,9.6,456,5.0,A
+High-Top Basketball Sneakers,3.1,1.7,4.1,680,21.8,695,14.7,C
+Slip-Resistant Clogs,2.0,1.5,3.2,541,17.2,629,11.2,B
+Mechanic Jumpsuit,3.6,5.4,8.1,1226,26.4,1423,16.8,D
+High-Top Basketball Sneakers,2.5,1.6,3.4,531,16.9,580,11.1,B
+Waterproof Hiking Boots,2.8,1.8,3.4,553,20.4,727,11.5,B
+Tactical Cargo Pants,2.0,3.4,4.9,825,16.5,873,10.2,B
+Industrial Work Shirt,1.4,2.8,3.8,611,13.3,774,8.3,B
+Athletic Performance Tee,1.1,2.1,3.4,443,11.3,620,6.5,B
+Steel Toe Boots,4.3,2.9,5.9,842,32.3,1122,19.4,D
+Waterproof Parka,4.2,6.2,8.8,1433,29.6,1807,18.8,D
+Running Windbreaker,1.5,3.0,3.9,631,13.7,699,6.6,B
+Security Guard Blazer,2.2,4.5,5.5,912,18.4,1087,10.6,C
+Insulated Camping Vest,1.7,2.9,4.6,807,16.3,820,8.8,B
+Construction Coverall,3.3,5.0,6.9,941,20.9,1226,13.7,C
+Security Guard Blazer,2.3,4.4,5.8,950,18.9,1259,11.4,C
+Lightweight Running Shoes,2.0,1.4,3.4,421,15.2,555,10.7,B
+Training Tracksuit,2.5,4.7,6.6,969,21.7,1232,12.9,C
+Steel Toe Boots,2.6,1.6,3.7,592,19.2,706,13.2,B
+Insulated Camping Vest,2.2,3.6,5.0,821,19.6,959,10.6,C
+Hiking Shell Jacket,2.0,3.8,4.4,943,16.3,959,9.9,B
+Steel Toe Boots,2.6,1.7,3.9,525,21.1,665,12.2,B
+Waterproof Hiking Boots,3.6,2.0,4.7,739,25.2,758,15.7,C
+Trail Running Shorts,0.9,2.1,3.6,470,11.0,574,6.3,B
+Training Tracksuit,2.6,4.7,5.8,1008,21.4,1292,12.8,C
+Waterproof Hiking Boots,3.1,2.0,4.3,743,22.2,861,16.0,C
+Cabin Crew Jacket,1.7,3.3,4.4,768,14.2,916,9.9,B
+Lightweight Running Shoes,2.2,1.5,3.5,418,15.0,589,10.4,B
+Steel Toe Boots,3.5,2.1,5.3,740,23.6,804,15.8,C
+High-Top Basketball Sneakers,3.2,1.8,4.0,646,20.7,733,14.7,C
+Cabin Crew Jacket,2.4,4.2,5.3,951,20.2,1208,10.5,C
+High-Top Basketball Sneakers,3.2,1.7,4.7,675,23.3,812,14.3,C
+Industrial Work Shirt,1.5,3.0,4.4,592,10.9,714,7.4,B
+Mechanic Jumpsuit,2.8,4.7,6.1,1055,18.8,1290,13.0,C
+Paramedic Scrubs,1.4,2.6,4.1,584,13.1,787,7.0,B
+Compression Tights,1.2,2.7,3.8,507,12.5,736,6.8,B
+Training Tracksuit,3.2,5.2,7.3,1248,27.4,1541,16.0,D
+Police Patrol Shirt,1.5,3.1,3.8,661,13.0,763,7.9,B
+High-Top Basketball Sneakers,2.4,1.7,3.7,556,17.4,561,12.8,B
+Waterproof Hiking Boots,4.1,2.7,6.3,814,30.7,1020,18.4,D
+Welding Apron,1.9,3.0,4.0,557,12.2,692,8.6,B
+Construction Coverall,3.0,4.7,6.3,1078,20.5,1279,14.9,C
+Waterproof Hiking Boots,2.9,1.6,3.9,619,17.7,638,11.0,B
+Cabin Crew Jacket,2.4,4.2,5.1,831,18.4,1167,10.8,C
+Steel Toe Boots,2.6,1.9,4.0,524,19.8,698,14.4,B
+Waterproof Hiking Boots,4.0,2.8,5.8,816,32.6,985,16.9,D
+Industrial Work Shirt,1.4,2.8,4.0,612,12.1,769,7.0,B
+Security Guard Blazer,2.4,4.8,5.2,967,18.8,1191,12.4,C
+Tactical Cargo Pants,1.7,3.2,4.8,714,16.4,873,8.7,B
+Waterproof Hiking Boots,2.6,1.9,3.8,599,19.1,603,13.3,B
+Construction Coverall,3.3,5.1,7.3,1059,22.6,1377,12.8,C
+Slip-Resistant Clogs,3.0,1.6,4.4,590,20.6,765,14.2,C
+Waterproof Parka,3.8,6.3,8.0,1316,29.3,1645,16.0,D
+Tactical Cargo Pants,2.9,5.1,7.1,1218,22.4,1531,13.1,D
+Welding Apron,2.0,3.0,4.0,607,12.7,773,9.0,B
+Chef Coat,2.0,3.8,5.0,837,16.2,1082,10.3,C
+Cabin Crew Jacket,2.3,4.7,5.2,963,19.5,1172,11.5,C
+Waterproof Hiking Boots,4.1,2.3,5.0,886,30.0,1117,18.7,D
+Mechanic Jumpsuit,3.0,4.7,6.9,1012,22.0,1346,12.1,C
+Paramedic Scrubs,1.3,2.3,4.0,570,10.8,724,6.6,B
+Athletic Performance Tee,1.0,2.2,3.2,476,11.0,550,6.9,B
+Tactical Cargo Pants,2.5,4.2,6.0,1002,18.4,1220,12.4,C
+Cabin Crew Jacket,1.7,3.2,5.0,717,15.3,910,8.6,B
+Steel Toe Boots,4.6,2.5,6.0,948,28.5,936,21.5,D
+Hiking Shell Jacket,3.3,4.8,7.7,1203,25.5,1623,13.8,D
+Steel Toe Boots,3.6,2.4,5.3,766,23.9,820,15.9,C
+Cabin Crew Jacket,2.0,4.6,5.6,906,18.6,1162,11.5,C
+Security Guard Blazer,2.0,3.7,4.4,837,15.7,991,9.6,B
+Waterproof Hiking Boots,2.7,1.8,3.6,548,21.3,732,11.0,B
+Paramedic Scrubs,1.4,2.4,4.0,590,11.9,710,6.3,B
+Cabin Crew Jacket,2.0,4.1,6.0,829,17.2,1187,11.1,C
+Insulated Camping Vest,2.2,3.2,5.0,931,19.0,1135,10.8,C
+Training Tracksuit,3.2,6.1,7.4,1336,27.2,1660,15.8,D
+Paramedic Scrubs,1.4,2.7,4.3,643,10.9,702,6.7,B
+Insulated Camping Vest,1.9,2.8,4.1,786,14.7,924,9.4,B
+Training Tracksuit,2.5,4.5,6.2,1083,18.9,1358,12.8,C
+Paramedic Scrubs,1.4,2.6,3.8,630,10.8,768,7.4,B
+Mechanic Jumpsuit,2.3,3.5,4.8,736,15.1,933,11.2,B
+Waterproof Hiking Boots,2.7,1.7,3.8,583,17.8,607,13.1,B
+Mechanic Jumpsuit,3.8,5.6,8.5,1155,27.6,1515,15.3,D
+Security Guard Blazer,1.8,4.0,4.2,754,14.8,1022,9.0,B
+Mechanic Jumpsuit,3.1,4.9,6.6,915,19.5,1213,11.9,C
+High-Top Basketball Sneakers,2.6,1.5,3.4,577,18.3,603,11.9,B
+Waterproof Hiking Boots,2.6,1.9,3.7,582,20.2,746,13.4,B
+Mechanic Jumpsuit,2.8,4.8,6.3,1045,19.7,1231,12.8,C
+Construction Coverall,3.5,6.3,8.5,1176,23.7,1755,16.0,D
+Insulated Camping Vest,1.8,2.8,4.1,687,16.7,796,8.1,B
+Factory Lab Coat,1.7,3.1,4.8,626,13.4,809,7.8,B
+Waterproof Hiking Boots,4.5,2.8,5.1,851,28.0,999,17.7,D
+Insulated Camping Vest,1.8,2.8,4.7,772,15.0,794,8.7,B
+Trail Running Shorts,1.0,2.2,3.1,503,10.5,557,6.8,B
+Construction Coverall,3.8,6.4,8.8,1124,28.1,1535,17.1,D
+Running Windbreaker,1.6,3.1,3.6,696,12.7,702,7.5,B
+Slip-Resistant Clogs,2.4,1.4,3.8,516,15.2,587,11.9,B
+Industrial Work Shirt,1.3,2.7,4.1,551,10.9,635,8.4,B
+Police Patrol Shirt,1.4,2.9,3.9,595,12.0,715,7.1,B
+Running Windbreaker,1.4,2.9,4.2,650,13.8,775,8.3,B
+Chef Coat,1.9,4.3,5.0,844,18.4,1121,10.0,C
+Lightweight Running Shoes,2.0,1.3,3.6,475,15.9,541,9.7,B
+Mechanic Jumpsuit,3.2,5.8,8.4,1242,25.0,1591,17.1,D
+Tactical Cargo Pants,2.2,4.7,5.2,922,19.4,1206,12.2,C
+Slip-Resistant Clogs,2.8,1.9,4.5,642,19.0,768,14.1,C
+Mechanic Jumpsuit,2.9,4.8,6.5,1036,21.7,1273,12.2,C
+High-Top Basketball Sneakers,2.6,1.4,3.4,511,15.8,662,11.2,B
+Insulated Camping Vest,2.2,3.7,5.7,879,16.9,1105,10.8,C
+Tactical Cargo Pants,2.4,4.0,5.3,926,18.7,1074,10.6,C
+High-Top Basketball Sneakers,3.1,2.0,4.6,586,20.7,759,14.5,C
+Cabin Crew Jacket,1.9,3.3,4.4,674,13.6,845,9.1,B
+Compression Tights,1.3,2.7,3.4,513,11.5,613,6.2,B
+Steel Toe Boots,4.8,2.9,6.6,914,29.8,1137,20.5,D
+Athletic Performance Tee,1.1,2.1,3.8,496,10.3,663,6.5,B
+Police Patrol Shirt,1.6,2.8,3.9,578,13.5,704,7.3,B
+Chef Coat,2.0,3.7,5.7,842,16.6,1057,9.5,C
+Steel Toe Boots,4.4,2.6,5.4,915,32.5,1008,19.4,D
+Paramedic Scrubs,1.3,2.8,4.0,616,12.4,819,7.1,B
+Cabin Crew Jacket,2.3,4.1,5.3,971,17.7,1046,12.0,C
+Cabin Crew Jacket,1.9,3.5,4.3,741,16.7,977,8.7,B
+Hiking Shell Jacket,2.7,3.9,5.9,1121,18.9,1261,12.5,C
+Construction Coverall,3.9,5.6,8.9,1179,24.6,1467,15.8,D
+Cabin Crew Jacket,2.2,4.4,5.1,959,17.0,1140,10.2,C
+Chef Coat,1.6,3.1,4.3,616,14.8,818,8.9,B
+Security Guard Blazer,2.5,4.7,5.8,942,20.5,1105,11.7,C
+Tactical Cargo Pants,2.5,4.1,5.7,1044,17.5,1163,11.8,C
+High-Top Basketball Sneakers,2.6,1.6,3.3,538,17.5,601,12.6,B
+Police Patrol Shirt,1.5,2.8,4.5,663,13.3,768,8.6,B
+Steel Toe Boots,2.9,1.8,3.6,528,21.0,708,14.1,B
+High-Top Basketball Sneakers,2.9,1.8,4.1,638,22.7,691,13.8,C
+Hiking Shell Jacket,2.5,4.3,5.6,1023,20.7,1158,11.4,C
+Tactical Cargo Pants,1.7,3.3,5.1,840,14.7,883,10.3,B
+Police Patrol Shirt,1.6,3.1,3.9,641,13.9,850,8.4,B
+Tactical Cargo Pants,1.9,3.4,4.2,804,16.7,946,9.9,B
+Steel Toe Boots,4.3,2.5,6.0,860,29.9,951,19.2,D
+Slip-Resistant Clogs,2.2,1.4,3.8,536,15.9,592,9.6,B
+Waterproof Hiking Boots,2.8,1.7,3.7,536,18.2,675,12.0,B
+Factory Lab Coat,1.8,3.2,4.6,758,13.4,915,7.6,B
+Cabin Crew Jacket,2.2,4.7,5.4,838,17.4,1175,11.4,C
+Trail Running Shorts,0.9,2.2,3.0,552,9.6,650,6.1,B
+Hiking Shell Jacket,3.2,4.6,6.8,1351,25.8,1517,13.2,D
+Industrial Work Shirt,1.6,2.7,4.3,604,11.3,654,7.8,B
+Mechanic Jumpsuit,3.1,4.9,6.7,1041,22.2,1310,12.2,C
+Lightweight Running Shoes,1.9,1.4,3.0,503,15.7,534,9.9,B
+Hiking Shell Jacket,2.5,3.9,5.7,977,18.8,1313,11.1,C
+Factory Lab Coat,1.8,3.4,4.7,672,15.3,787,8.6,B
+Mechanic Jumpsuit,3.9,6.2,8.5,1110,23.3,1430,15.8,D
+High-Top Basketball Sneakers,2.3,1.5,3.7,513,19.0,568,12.4,B
+Mechanic Jumpsuit,3.1,4.7,6.9,948,20.8,1208,11.9,C
+High-Top Basketball Sneakers,2.7,1.5,3.6,572,19.2,548,12.3,B
+Steel Toe Boots,4.0,2.8,5.8,851,32.4,1135,19.9,D
+Yoga Leggings,1.3,2.7,3.5,531,11.1,579,7.1,B
+Tactical Cargo Pants,2.4,4.6,5.8,1037,19.2,1241,11.8,C
+Training Tracksuit,2.9,4.5,5.8,926,21.6,1238,12.4,C
+Chef Coat,1.6,3.2,4.2,698,13.5,844,7.5,B
+Mechanic Jumpsuit,2.8,4.8,6.4,1007,21.9,1210,12.6,C
+Steel Toe Boots,3.9,3.0,5.7,917,34.0,998,20.6,D
+Waterproof Parka,4.1,5.8,9.3,1278,29.3,1590,18.6,D
+Police Patrol Shirt,1.7,2.8,3.8,576,13.0,868,7.0,B
+Industrial Work Shirt,1.5,2.5,4.3,579,11.9,634,7.3,B
+Mechanic Jumpsuit,2.9,4.6,6.6,961,21.6,1288,12.5,C
+Yoga Leggings,1.2,2.5,3.8,525,11.9,637,7.0,B
+Construction Coverall,3.1,4.7,6.4,1030,20.4,1424,14.4,C
+Security Guard Blazer,2.8,6.1,6.8,1109,24.7,1323,13.6,D
+Tactical Cargo Pants,2.1,3.7,4.8,822,17.1,862,9.3,B
+Cabin Crew Jacket,2.1,4.6,5.4,837,17.2,1146,11.7,C
+Running Windbreaker,1.5,2.9,3.7,602,12.2,735,8.0,B
+Waterproof Hiking Boots,2.9,1.6,3.4,508,21.7,709,12.2,B
+Security Guard Blazer,2.0,3.9,4.2,803,14.8,899,10.2,B
+Factory Lab Coat,1.7,3.1,4.5,682,14.9,849,8.9,B
+Hiking Shell Jacket,2.7,4.4,5.7,1106,21.2,1187,12.7,C
+Waterproof Hiking Boots,4.5,2.3,5.7,910,27.9,944,18.3,D
+Mechanic Jumpsuit,3.1,4.5,7.0,1031,19.6,1159,13.1,C
+Trail Running Shorts,1.0,2.2,3.2,560,10.9,622,6.7,B
+Construction Coverall,2.9,5.0,7.0,1022,23.3,1433,14.4,C
+Running Windbreaker,1.6,2.6,3.9,672,13.8,727,6.8,B
+Tactical Cargo Pants,2.3,4.2,5.4,980,19.2,1239,11.7,C
+Slip-Resistant Clogs,2.0,1.5,3.3,564,14.7,542,11.4,B
+Slip-Resistant Clogs,2.3,1.6,3.7,492,17.9,627,9.7,B
+Compression Tights,1.0,2.7,3.9,558,11.7,733,7.0,B
+Chef Coat,2.0,3.7,5.6,843,16.9,984,10.0,C
+Waterproof Hiking Boots,2.6,1.6,3.9,550,20.5,715,12.2,B
+Hiking Shell Jacket,2.9,5.6,7.9,1343,24.3,1369,14.0,D
+High-Top Basketball Sneakers,2.3,1.7,3.4,518,16.0,555,11.7,B
+Police Patrol Shirt,1.4,2.9,4.4,618,13.2,806,7.2,B
+Yoga Leggings,1.3,2.3,3.3,482,11.8,657,6.8,B
+Factory Lab Coat,1.7,3.4,4.6,762,13.0,899,7.4,B
+Insulated Camping Vest,2.2,3.3,5.7,842,17.4,1040,10.1,C
+Hiking Shell Jacket,1.9,3.1,5.0,839,14.6,1022,9.3,B
+Police Patrol Shirt,1.5,3.1,3.8,589,11.6,772,8.4,B
+Compression Tights,1.1,2.6,3.3,580,10.4,674,7.0,B
+Training Tracksuit,3.5,5.5,7.2,1359,26.6,1712,15.6,D
+Steel Toe Boots,3.3,2.0,4.5,688,26.4,874,14.6,C
+Mechanic Jumpsuit,3.1,5.5,7.2,1103,24.8,1421,16.0,D
+Steel Toe Boots,4.2,2.7,5.8,883,33.5,1068,17.4,D
+Security Guard Blazer,2.4,4.1,6.0,998,19.1,1193,11.1,C
+Insulated Camping Vest,2.2,3.7,5.4,977,17.2,1033,10.8,C
+Tactical Cargo Pants,2.9,5.2,6.5,1193,24.3,1534,14.5,D
+Waterproof Hiking Boots,2.6,1.7,3.4,516,18.5,629,11.8,B
+Tactical Cargo Pants,3.0,5.1,7.7,1204,23.7,1565,13.7,D
+Construction Coverall,3.9,5.7,8.2,1260,27.8,1661,17.4,D
+Security Guard Blazer,2.4,4.8,5.9,924,18.9,1101,11.7,C
+Slip-Resistant Clogs,2.6,1.9,4.5,683,21.7,717,12.9,C
+High-Top Basketball Sneakers,3.0,2.0,4.7,691,21.0,729,14.1,C
+Tactical Cargo Pants,2.9,5.5,6.7,1277,25.0,1332,14.5,D
+Industrial Work Shirt,1.5,2.9,4.3,547,11.3,732,7.0,B
+Tactical Cargo Pants,2.4,4.2,6.2,959,18.8,1220,11.5,C
+Tactical Cargo Pants,2.8,5.6,7.3,1318,24.5,1428,15.5,D
+High-Top Basketball Sneakers,2.5,1.6,3.6,478,19.5,604,12.1,B
+Waterproof Parka,3.7,6.7,8.0,1374,26.2,1709,16.1,D
+Mechanic Jumpsuit,3.8,5.3,8.7,1071,22.5,1461,15.1,D
+Paramedic Scrubs,1.4,2.3,4.3,655,11.6,677,7.3,B
+Industrial Work Shirt,1.5,2.4,3.8,526,11.5,698,8.0,B
+Athletic Performance Tee,1.0,2.0,3.6,497,11.9,613,5.8,B
+Slip-Resistant Clogs,2.1,1.4,3.1,491,18.0,630,11.7,B
+Training Tracksuit,3.2,5.8,8.2,1113,27.2,1632,13.6,D
+Hiking Shell Jacket,2.8,5.1,7.3,1212,23.6,1392,16.1,D
+Yoga Leggings,1.3,2.3,3.4,466,10.6,613,6.5,B
+Security Guard Blazer,2.2,4.4,5.6,915,18.7,1107,11.8,C
+Hiking Shell Jacket,3.0,5.0,7.1,1403,22.4,1362,13.9,D
+Tactical Cargo Pants,3.0,5.4,6.4,1273,21.7,1561,14.1,D
+Chef Coat,1.5,3.4,4.1,661,14.0,887,8.5,B
+Insulated Camping Vest,2.2,3.3,4.9,924,18.9,1099,9.7,C
+Steel Toe Boots,4.8,2.9,5.9,906,30.4,1008,19.0,D
+Security Guard Blazer,1.9,3.4,4.5,678,17.0,1047,9.8,B
+Factory Lab Coat,2.2,4.4,5.7,839,18.6,1113,10.8,C
+Training Tracksuit,3.3,6.2,7.4,1202,27.1,1624,16.2,D
+Police Patrol Shirt,1.7,3.0,4.1,698,12.7,747,7.7,B
+High-Top Basketball Sneakers,2.7,1.7,4.2,655,23.1,765,15.2,C
+Security Guard Blazer,1.8,3.9,5.2,766,17.3,882,9.6,B
+Steel Toe Boots,2.6,1.7,4.3,583,22.2,724,12.1,B
+Insulated Camping Vest,1.9,3.7,4.9,912,19.3,964,10.9,C
+Security Guard Blazer,2.9,5.2,7.3,1223,22.4,1522,15.1,D
+Compression Tights,1.2,2.3,4.0,515,12.6,735,6.4,B
+Tactical Cargo Pants,1.9,3.2,4.4,768,15.2,996,9.4,B
+Hiking Shell Jacket,2.3,3.2,5.0,911,14.8,966,9.2,B
+Athletic Performance Tee,1.0,2.1,3.2,548,9.6,657,6.2,B
+Tactical Cargo Pants,2.4,4.0,5.6,915,18.3,1093,11.0,C
+Chef Coat,1.6,3.3,4.7,732,13.5,928,7.5,B
+Waterproof Parka,3.6,5.9,9.3,1564,29.9,1820,15.9,D
+Factory Lab Coat,2.2,3.8,6.0,925,18.5,1046,10.3,C
+Yoga Leggings,1.4,2.4,3.6,516,11.2,649,6.1,B
+Hiking Shell Jacket,2.5,4.0,6.0,1138,19.8,1251,12.2,C
+Chef Coat,1.5,3.6,4.7,625,14.1,823,7.6,B
+Factory Lab Coat,1.6,3.2,4.3,776,13.5,917,8.9,B
+Paramedic Scrubs,1.4,2.4,4.2,606,11.3,757,6.7,B
+Athletic Performance Tee,1.1,2.3,3.8,541,11.4,591,6.6,B
+Cabin Crew Jacket,2.4,4.8,5.3,967,19.4,1076,11.9,C
+Welding Apron,2.6,4.0,4.9,770,16.5,887,11.6,C
+Training Tracksuit,3.0,5.7,8.2,1263,23.3,1414,15.3,D
+Factory Lab Coat,2.3,4.4,5.8,919,19.1,981,10.6,C
+Waterproof Parka,4.1,6.9,8.0,1450,32.1,1673,17.6,D
+Tactical Cargo Pants,3.0,4.7,7.7,1236,23.4,1310,14.1,D
+Lightweight Running Shoes,2.1,1.4,3.2,447,16.8,557,9.7,B
+Yoga Leggings,1.2,2.2,3.6,526,10.7,584,6.6,B
+Waterproof Hiking Boots,3.4,2.2,5.0,723,22.9,815,14.2,C
+Waterproof Hiking Boots,3.1,2.1,4.4,628,24.4,830,15.1,C
+Steel Toe Boots,4.0,2.6,6.2,839,32.5,1103,19.6,D
+Tactical Cargo Pants,1.7,3.4,4.6,820,14.0,924,10.3,B
+Athletic Performance Tee,1.1,2.3,3.1,479,10.8,647,5.6,B
+Compression Tights,1.2,2.4,4.0,602,10.6,723,6.8,B
+High-Top Basketball Sneakers,2.8,1.8,4.0,645,19.8,749,13.7,C
+Security Guard Blazer,2.6,5.4,6.9,1251,24.3,1355,14.3,D
+Tactical Cargo Pants,1.8,3.2,5.1,774,16.0,882,8.5,B
+Steel Toe Boots,3.7,2.3,5.2,710,27.3,884,16.0,C
+High-Top Basketball Sneakers,2.8,1.8,4.1,609,20.6,726,15.1,C
+Hiking Shell Jacket,2.7,4.0,6.1,1067,20.0,1184,12.3,C
+Hiking Shell Jacket,1.9,3.2,5.1,762,17.7,920,9.6,B
+Tactical Cargo Pants,2.2,4.5,5.3,973,18.6,1252,10.8,C
+Waterproof Parka,3.8,6.1,9.0,1396,28.1,1712,17.4,D
+Steel Toe Boots,3.6,2.3,4.8,655,26.4,803,15.0,C
+Tactical Cargo Pants,3.0,5.5,7.0,1218,24.4,1435,12.8,D
+Tactical Cargo Pants,2.0,3.8,4.6,792,14.1,879,8.7,B
+Lightweight Running Shoes,2.0,1.3,3.4,435,14.0,506,10.8,B
+Security Guard Blazer,2.9,5.0,7.5,1250,25.5,1452,13.5,D
+Athletic Performance Tee,1.1,2.1,3.7,546,10.3,637,5.8,B
+Cabin Crew Jacket,2.0,4.1,5.0,985,19.3,1188,10.8,C
+Police Patrol Shirt,1.4,2.6,4.3,583,12.4,769,8.5,B
+Mechanic Jumpsuit,3.2,6.2,7.8,1200,24.8,1524,15.6,D
+Construction Coverall,3.0,5.3,6.7,1053,19.7,1204,12.8,C
+Steel Toe Boots,3.8,2.6,6.0,949,30.5,976,18.6,D
+Hiking Shell Jacket,2.6,4.0,5.8,1008,18.1,1208,12.8,C
+Tactical Cargo Pants,2.2,4.2,5.4,992,19.4,1242,11.9,C
+Security Guard Blazer,2.1,4.9,5.7,871,20.1,1159,10.3,C
+Lightweight Running Shoes,2.0,1.3,3.6,475,14.1,554,11.1,B
+Industrial Work Shirt,1.5,2.7,4.4,618,12.4,673,8.4,B
+High-Top Basketball Sneakers,3.0,2.0,4.2,677,21.2,715,14.5,C
+Chef Coat,1.8,3.3,4.8,688,15.8,915,8.9,B
+Lightweight Running Shoes,2.3,1.3,3.4,457,15.6,562,9.0,B
+Police Patrol Shirt,1.6,2.6,3.8,663,12.2,865,7.9,B
+Cabin Crew Jacket,2.0,3.2,4.4,695,14.1,898,9.3,B
+Cabin Crew Jacket,2.3,4.6,5.1,950,19.3,1209,11.7,C
+Welding Apron,2.5,4.0,4.3,758,17.6,838,11.5,C
+High-Top Basketball Sneakers,2.2,1.7,3.3,524,18.3,656,10.9,B
+Steel Toe Boots,4.2,2.8,5.7,786,31.0,1022,20.6,D
+Training Tracksuit,3.5,5.5,6.9,1343,25.9,1547,14.8,D
+Tactical Cargo Pants,1.9,3.4,4.7,833,16.3,983,9.8,B
+Construction Coverall,3.8,5.6,8.1,1298,25.7,1471,17.7,D
+Hiking Shell Jacket,2.6,4.2,5.8,952,19.2,1189,10.9,C
+Tactical Cargo Pants,2.3,4.1,5.2,1045,18.8,1059,10.9,C
+Running Windbreaker,1.6,2.9,3.6,667,12.0,762,7.8,B
+Industrial Work Shirt,1.4,3.0,3.7,605,10.9,720,8.1,B
+Training Tracksuit,2.7,4.7,6.7,1023,20.1,1307,13.0,C
+Waterproof Hiking Boots,3.9,2.8,5.6,865,30.0,971,18.1,D
+Running Windbreaker,1.6,2.5,3.4,563,12.1,843,8.0,B
+Mechanic Jumpsuit,3.7,5.2,7.9,1135,24.5,1432,16.3,D
+Construction Coverall,3.7,6.1,8.5,1240,27.7,1590,15.9,D
+Paramedic Scrubs,1.2,2.8,4.0,613,12.4,689,6.8,B
+Tactical Cargo Pants,2.2,4.5,5.7,904,20.6,1204,12.4,C
+High-Top Basketball Sneakers,2.3,1.6,4.0,524,18.1,555,11.3,B
+Tactical Cargo Pants,2.4,4.2,5.6,964,19.0,1200,12.1,C
+Tactical Cargo Pants,2.8,5.4,7.6,1157,24.6,1327,14.5,D
+Chef Coat,1.8,3.1,4.5,723,13.6,934,8.1,B
+Factory Lab Coat,1.9,3.5,5.1,684,14.6,973,7.7,B
+Waterproof Hiking Boots,3.1,2.1,4.4,645,23.1,824,14.4,C
+Factory Lab Coat,2.0,4.1,5.2,850,18.2,984,10.7,C
+Construction Coverall,3.7,5.7,8.6,1189,28.0,1563,15.5,D
+Tactical Cargo Pants,3.1,5.2,7.2,1092,23.4,1425,14.0,D
+Running Windbreaker,1.5,2.8,3.9,693,14.8,725,7.1,B
+Trail Running Shorts,0.9,1.9,3.7,533,10.0,644,6.1,B
+Waterproof Hiking Boots,3.4,2.0,4.4,706,25.9,769,14.5,C
+Cabin Crew Jacket,2.8,5.9,7.0,1143,24.3,1235,14.2,D
+Cabin Crew Jacket,2.9,5.4,7.2,1025,25.0,1494,13.3,D
+Trail Running Shorts,1.0,2.0,3.1,579,10.6,578,6.4,B
+Athletic Performance Tee,1.1,2.2,3.7,476,10.1,605,6.3,B
+Insulated Camping Vest,2.1,3.5,5.1,878,18.2,1036,11.1,C
+Trail Running Shorts,1.1,1.9,3.5,501,11.1,549,5.9,B
+Cabin Crew Jacket,1.6,3.8,4.7,757,13.8,923,9.7,B
+Construction Coverall,4.1,6.2,8.9,1311,23.5,1770,17.3,D
+Paramedic Scrubs,1.3,2.5,4.1,554,12.7,750,7.1,B
+Police Patrol Shirt,1.6,2.9,4.2,564,14.4,829,7.8,B
+Waterproof Hiking Boots,2.8,1.5,4.1,564,19.5,671,11.0,B
+Insulated Camping Vest,1.9,3.0,4.6,663,14.7,818,7.7,B
+Hiking Shell Jacket,2.8,5.2,8.1,1308,26.9,1463,13.3,D
+Tactical Cargo Pants,2.0,3.7,4.6,760,14.4,857,10.5,B
+Cabin Crew Jacket,2.3,4.7,5.5,876,17.2,1099,11.8,C
+Cabin Crew Jacket,2.0,4.7,5.4,895,18.8,1155,11.1,C
+Insulated Camping Vest,2.0,3.3,5.4,862,18.2,1005,9.7,C
+Mechanic Jumpsuit,2.8,4.6,6.1,883,21.8,1320,12.7,C
+Police Patrol Shirt,1.5,2.9,3.7,676,13.5,826,7.6,B
+Athletic Performance Tee,1.1,2.0,3.7,543,10.9,659,6.1,B
+Cabin Crew Jacket,1.7,3.3,4.1,701,14.1,961,8.9,B
+Hiking Shell Jacket,2.4,4.3,6.1,1003,18.9,1225,12.3,C
+Insulated Camping Vest,1.6,2.8,4.6,792,16.0,772,9.5,B
+Steel Toe Boots,4.4,3.0,6.0,972,30.5,1080,17.7,D
+Mechanic Jumpsuit,2.6,4.3,6.3,945,21.2,1218,13.5,C
+Security Guard Blazer,2.4,4.8,6.2,1005,19.7,1187,10.9,C
+Tactical Cargo Pants,2.7,5.3,6.8,1260,23.5,1540,14.0,D
+Compression Tights,1.3,2.6,3.9,528,11.6,724,7.2,B
+Training Tracksuit,2.2,3.7,4.8,854,15.9,1024,9.4,B
+Lightweight Running Shoes,2.3,1.3,3.2,470,16.6,554,9.5,B
+Construction Coverall,3.0,5.2,7.4,982,21.3,1290,12.9,C
+Tactical Cargo Pants,2.4,4.2,5.6,1015,18.4,1098,12.1,C
+Hiking Shell Jacket,2.5,4.2,6.4,1025,19.9,1163,12.4,C
+Police Patrol Shirt,1.4,2.7,3.8,685,12.5,836,8.3,B
+Tactical Cargo Pants,1.9,3.2,4.8,749,15.4,906,9.3,B
+Chef Coat,1.7,3.5,4.0,737,15.5,819,8.4,B
+Tactical Cargo Pants,2.5,4.3,5.8,935,19.3,1096,11.8,C
+Cabin Crew Jacket,2.3,4.1,5.8,905,17.4,1177,11.7,C
+Training Tracksuit,3.1,6.1,6.9,1109,22.7,1525,15.0,D
+Waterproof Hiking Boots,3.8,2.5,5.6,785,29.6,1091,18.7,D
+Yoga Leggings,1.2,2.6,3.6,573,11.3,567,7.0,B
+Insulated Camping Vest,1.8,3.2,4.6,818,16.5,863,9.0,B
+Training Tracksuit,2.8,4.4,5.9,1086,19.7,1235,11.4,C
+Chef Coat,2.0,3.9,5.8,789,18.9,1119,9.4,C
+Security Guard Blazer,2.6,5.8,6.8,1050,24.3,1474,14.4,D
+Security Guard Blazer,2.1,4.2,5.2,933,19.3,1260,11.0,C
+Construction Coverall,3.0,5.2,6.4,980,22.4,1203,14.4,C
+Construction Coverall,3.9,6.2,8.2,1197,23.7,1675,15.8,D
+Chef Coat,1.5,3.1,4.5,673,14.1,874,7.6,B
+Tactical Cargo Pants,2.8,4.7,7.1,1279,23.0,1425,15.4,D
+Factory Lab Coat,2.0,3.9,6.0,919,16.7,1007,9.9,C
+Welding Apron,2.5,4.1,5.0,744,17.5,879,9.9,C
+Slip-Resistant Clogs,2.2,1.3,3.2,543,15.3,526,10.4,B
+Insulated Camping Vest,2.2,3.3,5.2,869,18.1,1074,11.1,C
+Slip-Resistant Clogs,2.8,1.6,4.5,634,20.6,765,12.8,C
+Industrial Work Shirt,1.5,2.9,4.3,598,12.0,685,6.9,B
+Slip-Resistant Clogs,2.0,1.6,3.6,474,14.9,565,11.3,B
+Cabin Crew Jacket,2.2,4.1,5.6,902,17.5,1076,10.7,C
+Athletic Performance Tee,1.0,2.0,3.6,549,10.7,652,6.0,B
+Running Windbreaker,1.4,3.1,3.9,621,14.2,776,7.3,B
+Paramedic Scrubs,1.4,2.5,3.8,548,12.0,750,6.6,B
+Training Tracksuit,2.8,4.5,6.8,987,21.5,1233,13.1,C
+Police Patrol Shirt,1.6,2.9,4.1,627,13.0,825,8.6,B
+Chef Coat,1.9,3.8,5.3,826,18.3,1028,9.2,C
+Yoga Leggings,1.2,2.6,3.5,553,10.2,587,6.5,B
+High-Top Basketball Sneakers,2.8,2.0,4.7,650,19.9,693,14.3,C
+Waterproof Parka,3.7,6.1,8.2,1558,27.5,1568,16.2,D
+Training Tracksuit,2.8,4.5,6.0,1075,19.5,1251,12.2,C
+Security Guard Blazer,2.5,4.6,5.2,952,20.2,1192,11.4,C
+Insulated Camping Vest,2.0,3.4,5.7,971,19.9,968,10.3,C
+Athletic Performance Tee,1.0,2.2,3.5,519,11.8,547,6.0,B
+Insulated Camping Vest,2.3,3.6,5.4,881,16.8,1130,11.0,C
+Police Patrol Shirt,1.6,2.6,4.0,673,13.3,784,7.8,B
+Insulated Camping Vest,2.2,3.8,5.1,919,18.6,1095,9.5,C
+Paramedic Scrubs,1.4,2.4,4.0,627,11.7,695,7.5,B
+Hiking Shell Jacket,2.0,3.2,4.4,829,15.4,1097,8.9,B
+Training Tracksuit,3.5,5.9,8.5,1314,22.7,1588,16.3,D
+Waterproof Parka,3.2,5.1,7.0,1199,22.0,1345,13.6,C
+Chef Coat,2.1,4.2,5.5,777,18.1,1063,9.5,C
+Waterproof Hiking Boots,3.0,2.3,4.2,704,24.3,826,14.8,C
+Waterproof Hiking Boots,4.1,2.6,6.0,860,30.3,962,17.8,D
+High-Top Basketball Sneakers,2.6,1.7,3.6,554,17.2,565,11.0,B
+Lightweight Running Shoes,2.0,1.3,3.0,436,15.4,552,9.0,B
+Steel Toe Boots,3.4,2.2,4.7,685,27.0,848,14.7,C
+Insulated Camping Vest,1.6,2.8,4.7,802,13.9,842,7.9,B
+Industrial Work Shirt,1.5,2.8,3.8,570,10.9,641,8.0,B
+Insulated Camping Vest,2.1,3.4,5.6,883,19.4,1040,10.4,C
+Factory Lab Coat,1.5,3.1,4.8,703,13.0,938,8.7,B
+Tactical Cargo Pants,3.0,5.7,6.6,1220,23.0,1439,14.7,D
+Yoga Leggings,1.3,2.4,3.4,466,11.5,560,6.1,B
+Police Patrol Shirt,1.4,2.6,4.1,592,14.0,778,7.1,B
+Training Tracksuit,2.1,4.2,5.1,847,15.3,999,9.5,B
+Hiking Shell Jacket,3.3,5.2,7.6,1367,23.2,1435,14.8,D
+Insulated Camping Vest,2.2,3.8,5.1,879,17.6,1064,10.8,C
+Cabin Crew Jacket,1.7,3.2,4.8,730,15.6,984,9.5,B
+Lightweight Running Shoes,2.1,1.5,3.5,437,14.2,506,10.4,B
+Running Windbreaker,1.6,2.5,3.7,699,14.6,796,7.2,B
+Steel Toe Boots,2.6,1.7,3.8,627,18.8,735,12.8,B
+Paramedic Scrubs,1.5,2.4,4.0,636,11.4,807,7.1,B
+Waterproof Hiking Boots,2.5,1.7,4.1,502,18.1,671,12.2,B
+Athletic Performance Tee,1.2,2.3,3.4,524,10.3,643,6.5,B
+Waterproof Hiking Boots,3.4,2.1,4.3,655,25.8,801,16.1,C
+Hiking Shell Jacket,3.0,4.7,7.8,1356,25.9,1325,14.0,D
+Athletic Performance Tee,1.2,2.3,3.6,506,9.9,598,6.4,B
+Hiking Shell Jacket,3.3,5.0,6.9,1258,21.8,1556,13.8,D
+Cabin Crew Jacket,2.3,4.8,5.3,909,19.8,1218,10.8,C
+Waterproof Hiking Boots,3.2,2.1,4.4,716,23.3,794,15.0,C
+Insulated Camping Vest,1.9,3.6,5.2,926,18.9,1117,10.5,C
+Tactical Cargo Pants,1.8,3.6,4.7,791,15.0,970,9.1,B
+Trail Running Shorts,0.9,2.0,3.6,520,11.1,554,6.4,B
+Security Guard Blazer,2.1,4.3,5.9,946,20.6,1164,12.3,C
+Factory Lab Coat,2.1,4.0,5.9,815,16.5,1172,10.1,C
+Steel Toe Boots,4.6,2.6,5.5,805,31.7,1142,17.6,D
+Tactical Cargo Pants,2.4,3.9,6.0,961,18.1,1239,12.0,C
+Training Tracksuit,2.1,4.2,5.0,743,17.0,977,8.9,B
+Athletic Performance Tee,1.1,2.3,3.2,541,10.2,644,6.4,B
+Security Guard Blazer,1.9,3.8,4.3,815,15.3,960,8.5,B
+Construction Coverall,4.0,6.7,8.2,1297,23.9,1733,15.8,D
+Welding Apron,1.8,3.4,3.9,535,13.7,736,8.3,B
+Waterproof Parka,4.2,6.5,8.0,1453,30.3,1513,18.0,D
+Chef Coat,2.1,3.9,5.3,803,17.8,1066,9.8,C
+Waterproof Hiking Boots,3.3,1.9,4.3,634,23.0,884,14.9,C
+Cabin Crew Jacket,1.7,3.9,4.1,689,15.2,876,8.2,B
+Hiking Shell Jacket,2.8,4.1,5.7,1126,18.4,1228,12.3,C
+Police Patrol Shirt,1.4,3.0,4.3,678,13.5,811,7.5,B
+Waterproof Hiking Boots,3.1,2.2,4.4,652,22.4,825,15.0,C
+Slip-Resistant Clogs,2.3,1.5,3.1,555,16.8,625,11.7,B
+Training Tracksuit,3.3,5.9,8.5,1341,26.7,1645,15.3,D
+Steel Toe Boots,4.2,2.4,5.7,826,32.6,976,20.6,D
+Waterproof Hiking Boots,3.4,2.1,4.7,630,23.4,861,14.1,C
+Mechanic Jumpsuit,3.0,4.9,6.3,987,19.9,1370,12.5,C
+Hiking Shell Jacket,3.2,5.3,8.2,1323,25.6,1458,15.6,D
+Factory Lab Coat,2.2,4.0,5.9,913,17.0,1083,9.8,C
+Tactical Cargo Pants,1.8,3.6,4.4,840,15.2,1004,9.0,B
+Athletic Performance Tee,1.2,2.2,3.2,515,9.8,625,5.6,B
+Welding Apron,2.0,3.4,3.6,560,12.9,719,9.6,B
+Mechanic Jumpsuit,3.2,6.3,7.9,1094,26.1,1722,15.1,D
+Hiking Shell Jacket,3.0,5.0,7.5,1148,24.3,1487,15.2,D
+Mechanic Jumpsuit,3.5,6.0,7.1,1283,23.0,1445,15.2,D
+Factory Lab Coat,1.7,3.5,4.1,741,13.7,806,8.3,B
+Mechanic Jumpsuit,2.3,3.5,5.1,742,16.3,1011,10.0,B
+Waterproof Parka,3.7,5.5,8.9,1321,27.4,1516,18.1,D
+Hiking Shell Jacket,3.2,5.6,8.1,1189,24.8,1387,13.1,D
+Security Guard Blazer,1.7,4.1,4.5,801,14.0,880,9.7,B
+Training Tracksuit,3.4,5.3,8.2,1291,23.9,1692,16.5,D
+Factory Lab Coat,2.2,3.7,5.5,921,16.9,1014,10.9,C
+High-Top Basketball Sneakers,2.6,1.7,3.7,478,16.3,643,11.8,B
+Construction Coverall,4.1,5.9,8.4,1150,25.4,1555,18.2,D
+Slip-Resistant Clogs,3.0,1.8,4.1,598,21.4,716,13.5,C
+Training Tracksuit,2.5,4.4,5.9,1069,20.8,1169,12.3,C
+Chef Coat,2.1,4.0,4.9,765,18.1,954,10.7,C
+Mechanic Jumpsuit,3.5,5.9,8.1,1257,23.6,1390,15.6,D
+Construction Coverall,3.4,6.2,8.4,1336,24.1,1767,17.2,D
+Waterproof Hiking Boots,3.7,2.3,6.1,880,31.4,1124,19.0,D
+Construction Coverall,3.0,5.0,7.0,1046,22.2,1416,14.5,C
+Factory Lab Coat,1.6,3.1,4.4,673,16.0,827,8.1,B
+Athletic Performance Tee,1.2,2.0,3.3,484,10.6,582,6.2,B
+Welding Apron,1.9,2.8,3.4,628,12.1,807,9.6,B
+Lightweight Running Shoes,1.9,1.3,3.2,479,17.4,493,9.1,B
+Chef Coat,1.9,3.7,5.3,834,18.2,963,9.6,C
+Factory Lab Coat,2.2,4.4,5.2,873,16.4,1141,10.6,C
+Athletic Performance Tee,1.0,2.2,3.4,519,11.1,651,6.4,B
+Steel Toe Boots,3.3,2.1,5.0,666,26.3,833,16.0,C
+Cabin Crew Jacket,2.4,4.4,5.6,886,18.4,1102,11.4,C
+Construction Coverall,3.3,5.2,6.9,1062,21.8,1227,12.7,C
+Security Guard Blazer,2.3,4.9,6.0,915,20.7,1175,10.4,C
+Mechanic Jumpsuit,3.3,5.8,7.4,1100,25.5,1473,17.3,D
+Hiking Shell Jacket,2.4,3.8,6.1,982,19.5,1313,12.7,C
+Tactical Cargo Pants,2.4,4.3,5.2,892,19.9,1103,10.7,C
+Waterproof Hiking Boots,4.0,2.6,5.6,844,30.8,954,19.3,D
+Tactical Cargo Pants,2.2,4.2,5.8,950,19.2,1162,12.6,C
+Hiking Shell Jacket,3.0,5.2,7.5,1171,25.7,1417,16.1,D
+Waterproof Parka,3.6,6.7,9.4,1346,28.4,1682,17.5,D
+Mechanic Jumpsuit,3.6,5.7,8.0,1300,23.2,1386,16.8,D
+Chef Coat,1.8,4.1,5.4,867,17.8,1024,9.5,C
+Chef Coat,2.0,3.9,5.7,794,17.5,1087,10.6,C
+Training Tracksuit,2.8,4.3,6.4,979,22.1,1368,12.3,C
+Chef Coat,1.8,4.1,5.6,860,17.1,1073,10.6,C
+Cabin Crew Jacket,2.2,4.3,5.1,857,17.5,1092,10.5,C
+Construction Coverall,3.4,6.4,8.7,1232,26.8,1775,18.5,D
+Hiking Shell Jacket,2.6,3.8,6.2,997,19.6,1295,11.2,C
+Construction Coverall,3.9,6.6,9.2,1184,28.9,1767,18.3,D
+Waterproof Parka,3.5,6.8,8.6,1502,27.9,1569,18.3,D
+Mechanic Jumpsuit,2.7,4.4,6.3,1051,20.4,1315,13.3,C
+Waterproof Parka,3.6,6.7,9.3,1538,32.0,1512,17.8,D
+Security Guard Blazer,2.3,4.1,6.0,977,20.5,1062,11.9,C
+Hiking Shell Jacket,2.6,4.0,5.7,989,20.3,1237,12.4,C
+Slip-Resistant Clogs,2.6,1.9,4.5,660,19.4,764,14.1,C
+Waterproof Parka,3.8,5.9,8.0,1538,26.7,1636,16.4,D
+Security Guard Blazer,2.1,4.3,5.4,964,18.1,1102,10.4,C
+Tactical Cargo Pants,2.3,4.3,5.6,1013,18.9,1148,11.7,C
+Hiking Shell Jacket,3.1,4.9,7.0,1412,25.5,1643,14.5,D
+Waterproof Hiking Boots,3.2,1.9,4.9,674,23.6,867,15.8,C
+Tactical Cargo Pants,3.1,5.8,6.6,1316,23.0,1466,15.6,D
+Construction Coverall,3.2,4.9,7.3,1095,22.5,1421,13.1,C
+Welding Apron,2.6,3.6,4.5,766,17.1,942,11.2,C
+Hiking Shell Jacket,3.2,5.4,7.2,1289,23.9,1517,13.1,D
+High-Top Basketball Sneakers,3.0,1.8,4.6,645,20.3,739,13.0,C
+Construction Coverall,3.1,4.5,6.9,940,22.3,1317,12.7,C
+Mechanic Jumpsuit,3.1,6.2,7.9,1268,25.4,1722,15.3,D
+Factory Lab Coat,2.3,4.0,5.5,888,16.3,1042,9.7,C
+Insulated Camping Vest,2.1,3.6,5.4,883,17.1,1137,10.9,C
+Cabin Crew Jacket,2.3,4.3,5.2,976,17.2,1131,11.9,C
+High-Top Basketball Sneakers,3.1,2.0,4.5,589,21.8,737,13.5,C
+Waterproof Hiking Boots,3.5,2.2,4.3,697,24.9,878,14.0,C
+Training Tracksuit,2.4,4.4,6.7,1096,20.8,1182,13.1,C
+Waterproof Hiking Boots,3.4,2.1,4.4,708,24.0,824,14.6,C
+Hiking Shell Jacket,2.3,4.4,6.6,1069,19.5,1213,11.7,C
+Factory Lab Coat,2.2,4.2,5.5,921,19.3,1029,10.7,C
+Training Tracksuit,2.5,4.2,5.8,1057,19.5,1333,12.8,C
+Mechanic Jumpsuit,3.4,5.8,7.2,1246,24.7,1567,15.9,D
+Tactical Cargo Pants,2.3,4.3,5.7,920,17.2,1150,12.6,C
+Construction Coverall,4.0,5.6,8.2,1378,28.2,1793,18.4,D
+Training Tracksuit,3.4,5.6,7.4,1299,27.7,1562,13.9,D
+Chef Coat,2.0,3.8,5.4,752,17.0,960,10.3,C
+Construction Coverall,3.5,6.5,9.0,1270,27.2,1513,17.6,D
+Waterproof Hiking Boots,4.4,2.6,6.1,798,30.1,1044,20.1,D
+Training Tracksuit,2.6,4.5,6.7,936,21.8,1164,12.2,C
+Waterproof Parka,3.6,5.7,8.3,1418,31.1,1570,19.5,D
+Chef Coat,1.8,4.0,5.6,891,17.6,1068,10.0,C
+Waterproof Parka,3.9,5.7,9.3,1433,27.5,1859,19.3,D
+Waterproof Hiking Boots,3.1,2.2,4.4,725,25.1,762,14.0,C
+Slip-Resistant Clogs,2.8,1.8,4.1,655,21.3,713,12.7,C
+Cabin Crew Jacket,2.1,4.6,5.1,900,20.2,1075,10.7,C
+Chef Coat,2.0,4.1,5.6,805,15.8,994,10.5,C
+Tactical Cargo Pants,2.1,4.3,6.1,959,17.5,1247,10.6,C
+Security Guard Blazer,2.1,4.9,5.9,873,18.1,1191,10.9,C
+Mechanic Jumpsuit,2.8,4.7,6.0,882,18.7,1309,13.9,C
+Welding Apron,2.4,3.7,5.0,747,17.4,890,10.4,C
+Cabin Crew Jacket,2.4,4.1,5.8,832,19.9,1227,11.2,C
+Chef Coat,1.8,4.1,4.9,799,16.6,1121,10.8,C
+Steel Toe Boots,3.3,2.0,5.2,770,26.9,868,15.6,C
+Waterproof Hiking Boots,3.5,2.2,4.7,641,22.5,805,14.0,C
+Construction Coverall,3.3,4.7,7.1,1034,22.8,1397,14.5,C
+Chef Coat,2.0,4.0,5.7,786,18.5,1074,10.4,C
+Mechanic Jumpsuit,3.1,4.4,6.1,977,21.5,1343,11.9,C
